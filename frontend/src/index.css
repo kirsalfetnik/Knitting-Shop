@@ -13,7 +13,7 @@
 body {
   position: relative;
   font-family: "Spectral";
-  background-color: #f1f1f1;
+  background-color: #f6f8ffe0;
   margin: 0;
   min-height: 100vh;
   overflow-x: hidden;
@@ -151,7 +151,7 @@ html {
 /* Address */
 .address {
   font-weight: 500;
-  padding: 40px 2% 70px 2%;
+  padding: 40px 2% 50px 2%;
   display: flex;
 }
 .address-text {
