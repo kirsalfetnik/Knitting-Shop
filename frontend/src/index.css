@@ -1,0 +1,24 @@
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Neuton:wght@400;700&family=Spectral:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500&display=swap');
+
+/* Layout */
+:root {
+  --error: #e7195a;
+  --blue: rgb(68, 141, 236);
+  --green: rgb(76, 219, 69);
+  --pale: #FAF8F5;
+  --cream: #EFE9E5;
+}
+
+body {
+  position: relative;
+  font-family: "Spectral";
+  background-color: var(--cream);
+  margin: 0;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+html {
+  scroll-behavior: smooth;
+}
